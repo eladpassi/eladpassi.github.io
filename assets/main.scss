@@ -1,0 +1,10 @@
+---
+---
+@import "minima";
+
+.profile-header { display: flex; align-items: center; gap: 2rem; }
+.profile-photo  { width: 280px; max-width: 40%; height: auto; }
+@media (max-width: 600px) {
+  .profile-header { flex-direction: column; text-align: center; }
+  .profile-photo  { max-width: 60%; }
+}
