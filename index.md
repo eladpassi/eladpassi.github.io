@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="profile-header">
-  <img src="headshot.jpg" alt="Elad Passi" class="profile-photo">
+  <img src="assets/headshot.jpg" alt="Elad Passi" class="profile-photo">
   <div markdown="1">
 
 Welcome, and I'm glad you found your way here!
@@ -14,7 +14,7 @@ My work sits at the intersection of macroeconomics and labor economics, and I dr
 
 In the coming months I will be visiting Princeton University. If you are around and would like to chat, feel free to reach out.
 
-My CV is [here](cv.pdf).
+My CV is [here](assets/cv.pdf).
 
 **Email:** elad-pepo.passi [at] univ-amu [dot] fr
 
