@@ -51,3 +51,5 @@ My CV is [here](assets/cv.pdf).
 ## Policy work
 
 OECD (2026), *How is Israel's Middle Class Faring? Income Trends, Occupational Change and the Rising Cost of Living*, OECD Publishing, Paris. [[Link](https://doi.org/10.1787/4750457e-en)]
+
+<script data-goatcounter="https://eladpassi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
