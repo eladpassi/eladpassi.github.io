@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="profile-header">
-  <img src="assets/headshot.jpg" alt="Elad Passi" class="profile-photo">
+  <img src="assets/headshot.jpg" alt="Elad Passi" class="profile-photo" width="180">
   <div markdown="1">
 
 Welcome, and I'm glad you found your way here!
