@@ -3,7 +3,7 @@
 @import "minima";
 
 .profile-header { display: flex; align-items: center; gap: 2rem; margin-bottom: 1.5rem; }
-.profile-photo  { width: 280px; max-width: 40%; height: auto; }
+.profile-photo  { width: 180px; max-width: 35%; height: auto; flex-shrink: 0; }
 
 .upcoming {
   border-left: 4px solid #642F3C;
@@ -37,3 +37,9 @@ details p { font-size: 0.9em; margin-top: 0.5rem; text-align: justify; }
 .social-media-list li { padding: 0 !important; }
 .social-media-list .username { display: none; }
 .social-media-list .svg-icon { width: 20px; height: 20px; }
+
+
+.footer-heading,
+.footer-col-1,
+.footer-col-3 { display: none; }
+.footer-col-2 { width: 100%; }
