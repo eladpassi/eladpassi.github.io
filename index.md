@@ -10,7 +10,7 @@ Welcome!
 
 I'm a PhD student in economics at the Aix-Marseille School of Economics (AMSE), advised by [Yann Bramoullé](https://sites.google.com/site/bramoulley/home) and [Cecilia García-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa).
 
-My research interests are in macroeconomics, labor economics, and network theory. I'm especially curious about how knowledge and innovation diffuse through the economy via people.
+My research interests are in **macroeconomics**, **labor economics**, and **network theory**. I'm especially curious about how knowledge and innovation diffuse through the economy via people.
 
 In the coming months I will be visiting Princeton University.
 
