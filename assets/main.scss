@@ -27,3 +27,13 @@ details p { font-size: 0.9em; margin-top: 0.5rem; text-align: justify; }
   .profile-header { flex-direction: column; text-align: center; }
   .profile-photo  { max-width: 60%; }
 }
+
+.social-media-list {
+  display: flex;
+  gap: 14px;
+  list-style: none;
+  margin-left: 0;
+}
+.social-media-list li { padding: 0 !important; }
+.social-media-list .username { display: none; }
+.social-media-list .svg-icon { width: 20px; height: 20px; }
