@@ -6,13 +6,13 @@ layout: home
   <img src="assets/headshot.jpg" alt="Elad Passi" class="profile-photo" width="180">
   <div markdown="1">
 
-Welcome, and I'm glad you found your way here!
+Welcome!
 
-I'm Elad, a third-year PhD student in economics at the Aix-Marseille School of Economics (AMSE), advised by [Yann Bramoullé](https://sites.google.com/site/bramoulley/home) and [Cecilia García-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa).
+I'm a PhD student in economics at the Aix-Marseille School of Economics (AMSE), advised by [Yann Bramoullé](https://sites.google.com/site/bramoulley/home) and [Cecilia García-Peñalosa](https://sites.google.com/view/ceciliagarciapenalosa).
 
-My work sits at the intersection of macroeconomics and labor economics, and I draw on network theory to connect the two. I'm especially curious about how knowledge diffuses through the economy by moving with people.
+My interests are macroeconomics and labor economics and network theory. I'm especially curious about how knowledge diffuses in the economy through people.
 
-In the coming months I will be visiting Princeton University. If you are around and would like to chat, feel free to reach out.
+In the coming months I will be visiting Princeton University.
 
 My CV is [here](assets/cv.pdf).
 
