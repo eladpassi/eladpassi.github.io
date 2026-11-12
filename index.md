@@ -36,11 +36,6 @@ My CV is [here](assets/cv.pdf).
 **Propagation Through People: The Labor-Flow Origins of R&D-Driven Growth**  
 <span class="status">Draft available upon request</span>  
 
-<details>
-<summary>Abstract</summary>
-<p>R&amp;D intensity has risen for two decades in most advanced economies while productivity growth has not followed. This paper proposes an overlooked piece of the answer: knowledge travels with people, so the innovation network that growth models take as a primitive is in fact produced by the labor market — and labor-market frictions can misroute knowledge even when R&amp;D resources are abundant. I embed a search-and-matching labor market, structured by a skill-proximity network, into a multi-sector endogenous growth model, combining the frameworks of Liu and Ma (2026) and Bocquet (2025). The equilibrium cross-sector flows of R&amp;D workers become the knowledge-spillover matrix that drives long-run growth, determined jointly with the growth rate through a fixed-point equation. I study the mathematical properties of this matrix. Its eigenvector centrality governs both the growth rate and the permanent distribution of knowledge stocks: a star network concentrates scientists and knowledge in a hub, delivering high growth but lasting inequality; a ring distributes both uniformly, delivering low growth but equal stocks. Its spectral structure guarantees convergence of growth rates while sustaining permanent level differences shaped by the topology. An interior optimal turnover rate balances retention against reallocation. The unifying finding is that the topology of the labor-flow network is a sufficient statistic for both the pace of aggregate growth and the shape of cross-sector knowledge inequality — and that topology is itself an equilibrium outcome of the labor market.</p>
-</details>
-
 ## Work in progress
 
 **Peer effects in startup founding as an innovation multiplier**  
