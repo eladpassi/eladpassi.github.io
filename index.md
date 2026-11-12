@@ -28,7 +28,6 @@ My CV is [here](assets/cv.pdf).
 - **Oct 23–25, 2026:** [Network Science & Economics Conference](https://nse-conference.github.io/), University of Luxembourg (poster)
 - **Oct 27, 2026:** Student Macro Lunch, Princeton University
 - **Nov 2, 2026:** Student-Only Macro Workshop, Princeton University
-- **Dec 10, 2026:** Macro Labour Seminar, Aix-Marseille School of Economics
 </div>
 
 ## Working papers
