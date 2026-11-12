@@ -35,7 +35,6 @@ My CV is [here](assets/cv.pdf).
 
 **Propagation Through People: The Labor-Flow Origins of R&D-Driven Growth**  
 <span class="status">Draft available upon request</span>  
-<span class="presented">Presented at: AMSE PhD Seminar (×2), Gerzensee Workshop on Production Networks</span>
 
 <details>
 <summary>Abstract</summary>
