@@ -1,5 +1,6 @@
 ---
 layout: home
+image: /assets/headshot123.jpg
 ---
 
 <div class="profile-header">
@@ -12,7 +13,7 @@ I'm a PhD student in economics at the Aix-Marseille School of Economics (AMSE), 
 
 My research interests are in **macroeconomics**, **labor economics**, and **network theory**. I'm especially curious about how knowledge and innovation diffuse through the economy via people.
 
-In the coming months I will be visiting Princeton University.
+This fall I visited Princeton University.
 
 My CV is [here](assets/cv.pdf).
 
@@ -21,12 +22,10 @@ My CV is [here](assets/cv.pdf).
   </div>
 </div>
 
-<div class="upcoming" markdown="1">
-
 ## Working papers
 
 **Propagation Through People: The Labor-Flow Origins of R&D-Driven Growth**  
-<span class="status">Draft available upon request</span>  
+<span class="status">Draft available upon request</span>
 
 ## Work in progress
 
